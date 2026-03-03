@@ -1,5 +1,3 @@
-int main(int argc, char const *argv[])
-{
-    printf("ola mundo");
-    return 0;
-}
+Este repositório representa o início da minha jornada na computação.
+Aqui está meu primeiro programa em linguagem C, exibindo a clássica mensagem:
+Hello, World!
